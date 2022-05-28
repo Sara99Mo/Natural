@@ -2,9 +2,9 @@
 
 ## Descrption :-
 
-This project has some HTML and CSS styling to display a static version of the Natural Page project
+This project has some HTML and CSS styling to display a static version of the Natural Page project.
 
-This Page is responsive in all devices screen.
+This Page is responsive on all device screens.
 
 ## Developer :-
 This project developed by Sara Mohamed Al-Farghly.

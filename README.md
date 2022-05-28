@@ -13,10 +13,10 @@ This project developed by Sara Mohamed Al-Farghly.
 
 ## Final Project Interface
 
-![Output](https://github.com/Sara99Mo/Natural/blob/main/img/Final_Project.webm)
+![Demo](https://github.com/Sara99Mo/Natural/blob/main/img/Final_Project.gif)
 
 ### Final Project Interface In Mobile
 
-![Output](https://github.com/Sara99Mo/Natural/blob/main/img/Final_Project_responsive.webm)
+![Demo](https://github.com/Sara99Mo/Natural/blob/main/img/Final_Project_responsive.gif)
 
 **_All Copyrights to Developer Sara_**
